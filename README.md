@@ -77,18 +77,6 @@ Data pipelines and analysis workflows for tree-level physiological monitoring an
 - Canopy height models
 - Structural and gap metrics
 
-### Field instrumentation and data pipelines
-- Environmental sensors
-- Data logging
-- Calibration awareness
-- Structured ingestion and QA/QC workflows
-
-### Reproducibility and research software
-- Git
-- Version-controlled pipelines
-- Documented workflows
-- Figure-to-data traceability
-
 ---
 
 ## Background
