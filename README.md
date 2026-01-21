@@ -93,5 +93,5 @@ Data pipelines and analysis workflows for tree-level physiological monitoring an
 
 ---
 
-## Contact (scratch)
-- University@gmail.com
+## Contact
+- SlevinRi@tcd.ie
